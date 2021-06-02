@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hi there 👋, I am Alberto Silva, welcome to my profile
 
+- 🔭 I’m currently working on build apps with Flutter
+- 🌱 I’m currently learning iOS development
 <!--
 **hackitjunior/hackitjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
